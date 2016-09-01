@@ -1,0 +1,430 @@
+------------------------------------
+Initial Array
+
+Input: 10
+HeapSort: 1.519e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+HeapSort: 8.534e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+HeapSort: 0.000116712
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+HeapSort: 0.00157923
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+HeapSort: 0.0189514
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+HeapSort: 0.210064
+
+Sorted Array
+_____________________
+------------------------------------
+Initial Array
+
+Input: 10
+HeapSort: 1e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+HeapSort: 8.801e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+HeapSort: 0.000117359
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+HeapSort: 0.00152536
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+HeapSort: 0.0179996
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+HeapSort: 0.20283
+
+Sorted Array
+_____________________
+------------------------------------
+Initial Array
+
+Input: 10
+HeapSort: 1.061e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+HeapSort: 1.0214e-05
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+HeapSort: 0.000146128
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+HeapSort: 0.00184416
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+HeapSort: 0.0183485
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+HeapSort: 0.202882
+
+Sorted Array
+_____________________
+------------------------------------
+Initial Array
+
+Input: 10
+HeapSort: 8.4e-07
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+HeapSort: 8.394e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+HeapSort: 0.000116916
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+HeapSort: 0.00160572
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+HeapSort: 0.0177355
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+HeapSort: 0.207845
+
+Sorted Array
+_____________________
+------------------------------------
+Initial Array
+
+Input: 10
+HeapSort: 8.01e-07
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+HeapSort: 1.0838e-05
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+HeapSort: 0.000131023
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+HeapSort: 0.00151873
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+HeapSort: 0.0189207
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+HeapSort: 0.201959
+
+Sorted Array
+_____________________
+------------------------------------
+Initial Array
+
+Input: 10
+HeapSort: 8.19e-07
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+HeapSort: 8.665e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+HeapSort: 0.000117465
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+HeapSort: 0.00150187
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+HeapSort: 0.0170853
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+HeapSort: 0.212953
+
+Sorted Array
+_____________________
+------------------------------------
+Initial Array
+
+Input: 10
+HeapSort: 9.66e-07
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+HeapSort: 9.777e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+HeapSort: 0.000147334
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+HeapSort: 0.0016479
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+HeapSort: 0.0206086
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+HeapSort: 0.222934
+
+Sorted Array
+_____________________
+------------------------------------
+Initial Array
+
+Input: 10
+HeapSort: 8.23e-07
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+HeapSort: 8.602e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+HeapSort: 0.000116595
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+HeapSort: 0.00171576
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+HeapSort: 0.0173486
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+HeapSort: 0.205912
+
+Sorted Array
+_____________________
+------------------------------------
+Initial Array
+
+Input: 10
+HeapSort: 8.32e-07
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+HeapSort: 8.468e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+HeapSort: 0.000136028
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+HeapSort: 0.00154189
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+HeapSort: 0.0175518
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+HeapSort: 0.201671
+
+Sorted Array
+_____________________
+------------------------------------
+Initial Array
+
+Input: 10
+HeapSort: 1.142e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+HeapSort: 8.596e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+HeapSort: 0.000116728
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+HeapSort: 0.0014895
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+HeapSort: 0.0178526
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+HeapSort: 0.206468
+
+Sorted Array
+_____________________

@@ -1,0 +1,36 @@
+Initial Array
+
+Input: 10
+HeapSort: 1.882e-06
+
+Sorted Array
+Initial Array
+
+Input: 100
+HeapSort: 9.955e-06
+
+Sorted Array
+Initial Array
+
+Input: 1000
+HeapSort: 0.000142953
+
+Sorted Array
+Initial Array
+
+Input: 10000
+HeapSort: 0.00194394
+
+Sorted Array
+Initial Array
+
+Input: 100000
+HeapSort: 0.197302
+
+Sorted Array
+Initial Array
+
+Input: 1000000
+HeapSort: 2.01494
+
+Sorted Array

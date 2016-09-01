@@ -1,0 +1,36 @@
+Initial Array
+
+Input: 10
+Insertion Sort: 7.95e-07
+
+Sorted Array
+Initial Array
+
+Input: 100
+Insertion Sort: 1.329e-05
+
+Sorted Array
+Initial Array
+
+Input: 1000
+Insertion Sort: 0.00179841
+
+Sorted Array
+Initial Array
+
+Input: 10000
+Insertion Sort: 0.153451
+
+Sorted Array
+Initial Array
+
+Input: 100000
+Insertion Sort: 16.2082
+
+Sorted Array
+Initial Array
+
+Input: 1000000
+Insertion Sort: 2781.97
+
+Sorted Array

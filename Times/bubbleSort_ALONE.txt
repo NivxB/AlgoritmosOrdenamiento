@@ -1,0 +1,36 @@
+Initial Array
+
+Input: 10
+BubbleSort: 8e-07
+
+Sorted Array
+Initial Array
+
+Input: 100
+BubbleSort: 2.8532e-05
+
+Sorted Array
+Initial Array
+
+Input: 1000
+BubbleSort: 0.00292209
+
+Sorted Array
+Initial Array
+
+Input: 10000
+BubbleSort: 0.858541
+
+Sorted Array
+Initial Array
+
+Input: 100000
+BubbleSort: 95.7605
+
+Sorted Array
+Initial Array
+
+Input: 1000000
+BubbleSort: 9743.15
+
+Sorted Array

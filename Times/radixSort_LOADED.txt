@@ -1,0 +1,36 @@
+Initial Array
+
+Input: 10
+Radix Sort: 1.633e-06
+
+Sorted Array
+Initial Array
+
+Input: 100
+Radix Sort: 5.576e-06
+
+Sorted Array
+Initial Array
+
+Input: 1000
+Radix Sort: 7.1098e-05
+
+Sorted Array
+Initial Array
+
+Input: 10000
+Radix Sort: 0.00190382
+
+Sorted Array
+Initial Array
+
+Input: 100000
+Radix Sort: 0.00900253
+
+Sorted Array
+Initial Array
+
+Input: 1000000
+Radix Sort: 1.1858
+
+Sorted Array

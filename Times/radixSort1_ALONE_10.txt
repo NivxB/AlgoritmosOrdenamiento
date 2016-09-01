@@ -1,0 +1,430 @@
+------------------------------------
+Initial Array
+
+Input: 10
+Radix Sort: 1.727e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+Radix Sort: 7.833e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+Radix Sort: 8.7844e-05
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+Radix Sort: 0.000879979
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+Radix Sort: 0.00840049
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+Radix Sort: 0.081127
+
+Sorted Array
+_____________________
+------------------------------------
+Initial Array
+
+Input: 10
+Radix Sort: 1.652e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+Radix Sort: 7.367e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+Radix Sort: 9.6817e-05
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+Radix Sort: 0.00140035
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+Radix Sort: 0.00895525
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+Radix Sort: 0.088842
+
+Sorted Array
+_____________________
+------------------------------------
+Initial Array
+
+Input: 10
+Radix Sort: 2.016e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+Radix Sort: 8.009e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+Radix Sort: 0.00010415
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+Radix Sort: 0.00166525
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+Radix Sort: 0.00769062
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+Radix Sort: 0.0932208
+
+Sorted Array
+_____________________
+------------------------------------
+Initial Array
+
+Input: 10
+Radix Sort: 1.526e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+Radix Sort: 5.605e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+Radix Sort: 7.3249e-05
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+Radix Sort: 0.0010242
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+Radix Sort: 0.00784344
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+Radix Sort: 0.0768137
+
+Sorted Array
+_____________________
+------------------------------------
+Initial Array
+
+Input: 10
+Radix Sort: 1.362e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+Radix Sort: 5.231e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+Radix Sort: 7.1285e-05
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+Radix Sort: 0.000713857
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+Radix Sort: 0.00731023
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+Radix Sort: 0.0765483
+
+Sorted Array
+_____________________
+------------------------------------
+Initial Array
+
+Input: 10
+Radix Sort: 1.39e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+Radix Sort: 5.35e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+Radix Sort: 7.1225e-05
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+Radix Sort: 0.000741894
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+Radix Sort: 0.00731383
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+Radix Sort: 0.0795772
+
+Sorted Array
+_____________________
+------------------------------------
+Initial Array
+
+Input: 10
+Radix Sort: 1.673e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+Radix Sort: 5.464e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+Radix Sort: 9.0569e-05
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+Radix Sort: 0.000714452
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+Radix Sort: 0.00734617
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+Radix Sort: 0.080012
+
+Sorted Array
+_____________________
+------------------------------------
+Initial Array
+
+Input: 10
+Radix Sort: 1.206e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+Radix Sort: 5.292e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+Radix Sort: 8.8783e-05
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+Radix Sort: 0.000724392
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+Radix Sort: 0.00763841
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+Radix Sort: 0.0764163
+
+Sorted Array
+_____________________
+------------------------------------
+Initial Array
+
+Input: 10
+Radix Sort: 1.197e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+Radix Sort: 5.282e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+Radix Sort: 7.1083e-05
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+Radix Sort: 0.00104618
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+Radix Sort: 0.00721199
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+Radix Sort: 0.0778832
+
+Sorted Array
+_____________________
+------------------------------------
+Initial Array
+
+Input: 10
+Radix Sort: 1.284e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+Radix Sort: 5.279e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+Radix Sort: 7.1163e-05
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+Radix Sort: 0.000750694
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+Radix Sort: 0.00822267
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+Radix Sort: 0.0821009
+
+Sorted Array
+_____________________

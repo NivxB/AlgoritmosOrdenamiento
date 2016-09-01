@@ -1,0 +1,36 @@
+Initial Array
+
+Input: 10
+Selection Sort: 1.235e-06
+
+Sorted Array
+Initial Array
+
+Input: 100
+Selection Sort: 3.5973e-05
+
+Sorted Array
+Initial Array
+
+Input: 1000
+Selection Sort: 0.00368043
+
+Sorted Array
+Initial Array
+
+Input: 10000
+Selection Sort: 0.292002
+
+Sorted Array
+Initial Array
+
+Input: 100000
+Selection Sort: 38.8119
+
+Sorted Array
+Initial Array
+
+Input: 1000000
+Selection Sort: 2948.98
+
+Sorted Array

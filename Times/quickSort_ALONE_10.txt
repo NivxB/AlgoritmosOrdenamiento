@@ -1,0 +1,430 @@
+------------------------------------
+Initial Array
+
+Input: 10
+Quick Sort: 1.046e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+Quick Sort: 6.821e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+Quick Sort: 7.7482e-05
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+Quick Sort: 0.000790146
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+Quick Sort: 0.00837604
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+Quick Sort: 0.0933475
+
+Sorted Array
+_____________________
+------------------------------------
+Initial Array
+
+Input: 10
+Quick Sort: 7.15e-07
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+Quick Sort: 6.894e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+Quick Sort: 7.7459e-05
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+Quick Sort: 0.000805341
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+Quick Sort: 0.00846183
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+Quick Sort: 0.0923357
+
+Sorted Array
+_____________________
+------------------------------------
+Initial Array
+
+Input: 10
+Quick Sort: 6.53e-07
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+Quick Sort: 7.543e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+Quick Sort: 7.5885e-05
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+Quick Sort: 0.000787481
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+Quick Sort: 0.0083879
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+Quick Sort: 0.0943346
+
+Sorted Array
+_____________________
+------------------------------------
+Initial Array
+
+Input: 10
+Quick Sort: 7e-07
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+Quick Sort: 7.007e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+Quick Sort: 7.793e-05
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+Quick Sort: 0.0007927
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+Quick Sort: 0.00830162
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+Quick Sort: 0.0939986
+
+Sorted Array
+_____________________
+------------------------------------
+Initial Array
+
+Input: 10
+Quick Sort: 6.91e-07
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+Quick Sort: 6.8e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+Quick Sort: 7.6798e-05
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+Quick Sort: 0.000796116
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+Quick Sort: 0.00834615
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+Quick Sort: 0.0920676
+
+Sorted Array
+_____________________
+------------------------------------
+Initial Array
+
+Input: 10
+Quick Sort: 6.56e-07
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+Quick Sort: 6.95e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+Quick Sort: 7.6729e-05
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+Quick Sort: 0.000800457
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+Quick Sort: 0.0082896
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+Quick Sort: 0.0912919
+
+Sorted Array
+_____________________
+------------------------------------
+Initial Array
+
+Input: 10
+Quick Sort: 6.44e-07
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+Quick Sort: 6.806e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+Quick Sort: 7.6308e-05
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+Quick Sort: 0.000781019
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+Quick Sort: 0.00831805
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+Quick Sort: 0.0943432
+
+Sorted Array
+_____________________
+------------------------------------
+Initial Array
+
+Input: 10
+Quick Sort: 6.71e-07
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+Quick Sort: 6.72e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+Quick Sort: 7.6652e-05
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+Quick Sort: 0.000821351
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+Quick Sort: 0.00849048
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+Quick Sort: 0.0955817
+
+Sorted Array
+_____________________
+------------------------------------
+Initial Array
+
+Input: 10
+Quick Sort: 6.73e-07
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+Quick Sort: 6.834e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+Quick Sort: 8.4507e-05
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+Quick Sort: 0.000836711
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+Quick Sort: 0.0107341
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+Quick Sort: 0.0972074
+
+Sorted Array
+_____________________
+------------------------------------
+Initial Array
+
+Input: 10
+Quick Sort: 7.04e-07
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100
+Quick Sort: 6.691e-06
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000
+Quick Sort: 7.5851e-05
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 10000
+Quick Sort: 0.000837518
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 100000
+Quick Sort: 0.00882034
+
+Sorted Array
+_____________________
+Initial Array
+
+Input: 1000000
+Quick Sort: 0.0911724
+
+Sorted Array
+_____________________

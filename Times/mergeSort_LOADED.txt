@@ -1,0 +1,36 @@
+Initial Array
+
+Input: 10
+Merge Sort: 2.001e-06
+
+Sorted Array
+Initial Array
+
+Input: 100
+Merge Sort: 1.2699e-05
+
+Sorted Array
+Initial Array
+
+Input: 1000
+Merge Sort: 0.000140946
+
+Sorted Array
+Initial Array
+
+Input: 10000
+Merge Sort: 0.170269
+
+Sorted Array
+Initial Array
+
+Input: 100000
+Merge Sort: 0.212658
+
+Sorted Array
+Initial Array
+
+Input: 1000000
+Merge Sort: 2.99981
+
+Sorted Array
